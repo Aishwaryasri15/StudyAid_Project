@@ -1,0 +1,21 @@
+
+
+
+
+#col-1 {
+  position: relative;
+  width: 30%;
+  float: left;
+  height: 100%;
+  background-color:'green';
+  z-index: 1010101010
+}
+
+#col-2 {
+  position: relative;
+  width: 70%;
+  float: left;
+  height: 100%;
+  background-color:'whitesmoke';
+  z-index: 1010101010
+}
